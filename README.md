@@ -8,3 +8,4 @@ I have converted different formats in idx format, just like mnist handwritten da
 5. convert_MNIST_80 is 80:20  training:testing data
 6. convert_MNIST_90 is 90:10  training:testing data
 7. pashto_characters_28x28_image_files.rar Contains original images, around 43,000 files, 1000 images for each class totalling of 43 classes. 
+8. ds50 is folder with 50 files before preprocessing with 50 best samples from each class out of 43 classes.
