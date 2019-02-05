@@ -1,5 +1,5 @@
 # pashto_handwritten_dataset
-![image sample]("/scan0006.jpg?"Pashto handwritten Scanned sample")
+![image sample]("./scan0006.jpg?"Pashto handwritten Scanned sample")
 Dataset of Pashto language Handwritten characters
 I have converted different formats in idx format, just like mnist handwritten datasets are formated in training and testing files. The ratios are as follows for experimentation purposes
 1. convert_MNIST_40 is 40:60  training:testing data
